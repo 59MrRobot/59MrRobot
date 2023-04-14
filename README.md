@@ -31,7 +31,7 @@ I am a Front End Developer from South Africa 🇿🇦.
 
 - ⚡ In my free time, I make my own music, read and watch football, my favourite team is <img src="https://media.giphy.com/media/yIe46NccLfjOw/giphy.gif" width="40" height="40">.
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Swazi-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/swazi-kunene-609352208))
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Swazi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/swazi-kunene-609352208)
 
 - [Resume](https://firebasestorage.googleapis.com/v0/b/ecommerce-55745.appspot.com/o/Swazi%20Kunene%20CV.pdf?alt=media&token=d4d699d1-efce-4d0e-b01c-44d142648c2a)
 
